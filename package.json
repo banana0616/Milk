@@ -1,0 +1,32 @@
+{
+  "name": "milk",
+  "version": "1",
+  "description": "우유 봇",
+  "main": "index.js",
+  "repository": ".",
+  "author": ".",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dokdo": "wonderlandpark/dokdo",
+    "dotenv": "^8.2.0",
+    "erela.js": "^2.3.2",
+    "koreanbots": "^2.0.9",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.33",
+    "monent": "^0.0.2-security",
+    "node-fetch": "^2.6.1",
+    "node-superfetch": "^0.1.11",
+    "os": "^0.1.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.8",
+    "@types/node": "^14.10.3",
+    "@typescript-eslint/eslint-plugin": "^4.1.1",
+    "@typescript-eslint/parser": "^4.1.1",
+    "eslint": "^7.9.0",
+    "prisma": "^2.18.0",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.2"
+  }
+}
