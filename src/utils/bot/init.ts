@@ -59,7 +59,7 @@ export default class MilkClient extends Client {
                 {
                     "host": "localhost",
                     "port": 2333,
-                    "password": "banana0616"
+                    "password": ""
                 }
             ]
         })
